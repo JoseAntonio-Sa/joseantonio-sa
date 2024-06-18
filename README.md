@@ -26,7 +26,8 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [ SOFTWARE ENGINEERING WITH ARIFICIAL INTELLIGENCE](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/ingenieria-de-software-con-inteligencia-artificial) at [SENATI](https://www.senati.edu.pe/).
+- :school: I am a `Junior` student in the course of [Software Engineering with Artificial Intelligence](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/ingenieria-de-software-con-inteligencia-artificial) at [SENATI](https://www.senati.edu.pe/).
+
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
